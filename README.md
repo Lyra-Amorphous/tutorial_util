@@ -8,8 +8,9 @@ This library does a summation operation on two integers.
 
 ### Download
 ```bash
-$ pip install --upgrade git+https://poojadce@bitbucket.org/poojadce/tutorial_utils.git@sumlib
+$ pip install --upgrade git+git://github.com/Lyra-Amorphous/tutorial_util@sumlib
 ```
+
 
 To uninstall
 ```bash
